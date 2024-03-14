@@ -1,3 +1,6 @@
+# We do not own the code
+A base code can be found here [Original GitHub Repo](https://github.com/FangyunWei/SLRT/tree/main/TwoStreamNetwork)
+
 # TwoStreamSLT
 A TwoStream network for sign language recognition and translation, including official implementations for 
 * [A Simple Multi-modality Transfer Learning Baseline for Sign Language Translation, CVPR2022](https://arxiv.org/abs/2203.04287)
